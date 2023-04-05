@@ -10,8 +10,6 @@ Además de su diseño atractivo y responsivo, la página cuenta con funcionalida
 | --- | --- |
 |![Captura de pantalla de la versión de escritorio](https://res.cloudinary.com/dwdzufjyh/image/upload/v1680660422/Projects%20Dev%20Challenges/Interior%20Consultant/interior-consultant-max-width_wboskb.png) | ![Captura de pantalla de la versión móvil](https://res.cloudinary.com/dwdzufjyh/image/upload/v1680660421/Projects%20Dev%20Challenges/Interior%20Consultant/interior-consultant-min-width_kv9lao.png) | 
 
-
-
 > **Puedes visitar mi proyecto en vivo aquí:** [Interior Consultant](https://interior-consultant-beta.vercel.app/)
 
 
@@ -24,12 +22,15 @@ Además de su diseño atractivo y responsivo, la página cuenta con funcionalida
 
 ## Funcionalidades
 
-Este proyecto cuenta con las siguientes funcionalidades:
+**Este proyecto cuenta con las siguientes funcionalidades:**
 
-    Diseño responsivo para adaptarse a diferentes tamaños de pantalla.
-    Navegación entre secciones de la página suave y animada.
-    Galería de fotos de proyectos de diseño de interiores.
-    Formulario de contacto para los clientes interesados en los servicios de consultoría de diseño.
+> 1. Diseño responsivo para adaptarse a diferentes tamaños de pantalla.
+
+> 3. Apertura de menu lateral con efecto animado a traves de la ejecucion de un evento click por Javascript cuando el dispositivo esta en version movil o tablet.
+
+> 5. Galería, con imagen de fondo (background-image).
+
+>4. Implementacion de contenedores, y texto fluido. 
 
 
 ## Instalación y uso
@@ -49,7 +50,7 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 
 ## Créditos
 
-Este proyecto fue creado por Carlo Vergara como parte de su aprendizaje en el curso de diseño web de Platzi.
+Este proyecto fue desarrollado por Carlos Vergara como parte de su proceso de aprendizaje autodidacta sobre diseño web, ejecutando el siguiente reto de [devchallenges.io](https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb)
 
 ## Licencia
 
